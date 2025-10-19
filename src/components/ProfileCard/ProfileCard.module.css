@@ -74,4 +74,12 @@
   color: #555;
   margin-bottom: 4px;
 }
+img {
+  width: 100%;
+  height: 35%;
 
+  border-radius: 8px;
+
+  
+    
+}

@@ -18,7 +18,7 @@ export default function ProfileCard(props: Props): JSX.Element {
   return (
     <div className={styles.card}>
       <img
-        src={avatarUrl}
+        src ={avatarUrl}
         alt={`${firstName} ${lastName}`}
         width="100"
         height="100"
